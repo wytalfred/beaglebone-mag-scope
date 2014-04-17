@@ -1,4 +1,4 @@
-![image](https://github.com/wytalfred/Beaglebone-magnetometer-Qt-display/raw/master/mag01.jpg)
+![image](https://github.com/wytalfred/beaglebone-mag-scope/raw/master/mag05.jpg)
 
 I'm using a LCD4 cape to display a scope graph which shows the direction of the magnetometer.
 
